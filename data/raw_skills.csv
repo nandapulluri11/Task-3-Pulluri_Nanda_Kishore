@@ -1,0 +1,11 @@
+job_role,skills
+Data Scientist,"Python, SQL, Machine Learning, Statistics, Pandas"
+Data Analyst,"Python, SQL, Excel, Statistics, Power BI"
+ML Engineer,"Python, Machine Learning, TensorFlow, SQL, Deep Learning"
+Backend Developer,"Python, Java, SQL, APIs, Databases"
+Frontend Developer,"HTML, CSS, JavaScript, React, TypeScript"
+DevOps Engineer,"Python, Linux, Docker, Kubernetes, AWS, CI/CD"
+Cloud Engineer,"Python, Cloud, AWS, Azure, Automation"
+Data Engineer,"Python, SQL, Spark, ETL, AWS"
+Cybersecurity Analyst,"Linux, Networking, Python, Security, SIEM"
+Android Developer,"Java, Kotlin, Android, XML, Firebase"
